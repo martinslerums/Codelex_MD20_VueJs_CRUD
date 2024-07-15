@@ -14,11 +14,6 @@
           />
         </RouterLink>
       </div>
-        <div class="create">
-          <RouterLink to="/create" class="add">
-            <img src="../assets/create.svg" alt="Create Logo" width="120" >
-          </RouterLink>
-        </div>
     </section>
 </template>
 
@@ -59,13 +54,6 @@
   grid-template-columns: repeat(5, 1fr);
   gap: 30px;
   padding: 200px 100px 150px 100px;
-}
-
-.create {
-  height: 75%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .links {

@@ -40,9 +40,8 @@
   import { useRoute } from 'vue-router';
   import { RouterLink } from 'vue-router';
 
-
-
   defineProps(['name', 'image', 'speed', 'glide', 'turn', 'fade', 'description', 'id']);
+  
   const route = useRoute()
 
 </script>
@@ -53,7 +52,6 @@
   flex-direction: column;
   gap: 5px;
   padding-bottom: 25px;
-  max-width: 320px;
   transition: transform 0.4s ease-in-out;
 }
 

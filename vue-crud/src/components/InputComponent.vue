@@ -1,6 +1,6 @@
 <template>
   <div class="input-wrap">
-    <label v-if="label" class="input-label" >{{ label }}
+    <label v-if="label" class="input-label" >{{ label }} </label>
     <input 
       class="input-field"
       :type='props.type' 
@@ -9,7 +9,6 @@
       :required="required"
       @input="$emit('update:modelValue', ($event.target as HTMLInputElement).value)"
     />
-    </label>
   </div>
 </template>
 
