@@ -5,34 +5,18 @@
 </template>
 
 <script setup lang="ts">
-  import type { Disc } from './HomeView.vue';
-  import { useRouter } from 'vue-router';
-  import { toast } from 'vue3-toastify';
   import { ref } from 'vue';
-  import 'vue3-toastify/dist/index.css';
+  import { useRouter } from 'vue-router';
+  
   import DiscProfileForm from '@/components/DiscProfileForm.vue';
+  import { successToast, errorToast } from '@/utils/toasts/toasts';
 
+  import type { Disc } from './HomeView.vue';
+  
   const router = useRouter()
 
   const error = ref<string | null>(null);
 
-  const successToast = () => {
-    toast("Disc created", {
-      theme: "light",
-      type: "success",
-      autoClose: 3000,
-      transition: "flip"
-    }); 
-  }
-
-  const errorToast = (errorMessage: string) => {
-    toast( errorMessage, {
-      theme: "light",
-      type: "error",
-      autoClose: 3000,
-      transition: "flip"
-    }); 
-  }
 
   const createDisc = async (newDisc: Disc) => {
     const response = await fetch('http://localhost:3000/discs', {

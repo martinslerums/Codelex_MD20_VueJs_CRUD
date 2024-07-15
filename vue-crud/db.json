@@ -8,7 +8,7 @@
       "turn": -1,
       "fade": "1",
       "description": "The Buzzz is Discgolf’s most popular midrange due to its consistency and compatibility with a wide range of players styles. The Buzzz is a low profile modern midrange that is the gold standard for straight to stable flights players can trust.",
-      "id": 1
+      "id": "1"
     },
     {
       "name": "Raptor",
@@ -18,47 +18,47 @@
       "turn": "0",
       "fade": "3",
       "description": "Drive with confidence with the overstable Raptor driver. A staple for forehand and high speed backhand throws, with minimal turn and a powerful ending fade. ",
-      "id": 4
+      "id": "4"
     },
     {
       "name": "Kaxe Z",
-      "image": "https://discgolf.eu/cdn/shop/products/K1_Soft_Kaxe__Red_b0b91b0e-c7b2-44e0-9d21-caa4c2ea540a.webp?v=1696519991",
+      "image": "https://sweetspotdiscgolf.com/wp-content/uploads/2022/04/k1-soft-clear-kaxe-z-.png",
       "speed": "6",
       "glide": 5,
       "turn": "0",
       "fade": "2",
       "description": "Just as with the original Kaxe we have called it a midrange driver, but it’s just as much a fairway driver. A multi-purpose disc. The Kaxe Z can handle a decent amount of speed and wind, but will also perform better than the typical driver when powered-down. With this disc we’re introducing the Z as in Zero, symbolizing less stability than the original mold.  Suitable for: Control shots, forehand shots, 1-disc rounds.",
-      "id": 5
+      "id": "5"
     },
     {
       "name": "Undertaker",
-      "image": "https://discgolf.eu/cdn/shop/products/ppzundertaker_stockpp5xundertakerorange.jpg?v=1697022687",
+      "image": "https://sweetspotdiscgolf.com/wp-content/uploads/2020/12/133629277_309512137069676_9049440348584166884_n.jpg",
       "speed": "9",
       "glide": "5",
       "turn": "-1",
       "fade": 2,
       "description": "The versatile workhorse that you'll throw again and again! Undertaker is a must have driver for any skill level.",
-      "id": 6
+      "id": "6"
     },
     {
       "name": "Toro",
-      "image": "https://cdn.shopify.com/s/files/1/0607/0956/8761/products/StarTorokol_600x.jpg?v=1684226998",
+      "image": "https://infinitediscs.com/Inf_Uploads/DiscProducts/W300_Toro69e5.Webp",
       "speed": "10",
       "glide": "6",
       "turn": -2,
       "fade": 4,
       "description": "Embark on a disc golf journey with the Lunar Orbit! This high-speed driver offers a powerful flight with a predictable fade, making it a favorite among advanced players seeking distance.",
-      "id": 7
+      "id": "7"
     },
     {
       "name": "Musket",
-      "image": "https://discgolf.eu/cdn/shop/products/IMG_4544_1_2f732533-9610-495a-a8fe-51148936c88c.jpg?v=1683638348",
+      "image": "https://infinitediscs.com/Inf_Uploads/DiscProducts/Musket.Webp",
       "speed": "10",
       "glide": "5",
       "turn": "-1",
       "fade": "2",
       "description": "The Musket is a straight shooter. Accuracy and distance do not always go hand in hand, but this speedy fairway driver can give you that little extra firepower and still hold the line. The perfect weapon when the fairway is narrow and the basket is far away.",
-      "id": 8
+      "id": "8"
     },
     {
       "name": "Claymore",
@@ -68,7 +68,7 @@
       "turn": "-1",
       "fade": "1",
       "description": "The Claymore has a small dome and comfortable grip combined with a neutral flight that will suit most players. Straight, left or right, doesn’t matter. This disc can do it all.",
-      "id": 9
+      "id": "9"
     },
     {
       "name": "Teebird",
@@ -78,7 +78,7 @@
       "turn": "0",
       "fade": "2",
       "description": "The TeeBird3 represents the evolution of the TeeBird. The TeeBird3 is faster with less glide, and has the same trusted turn and fade flight ratings as the original TeeBird. Many people have described a lot of discs as a “faster TeeBird”, but this is the real deal. The flat flight plate promotes speed while reducing glide, effectively producing consistent, accurate flights. This is a point and shoot, target specific fairway driver. The TeeBird in it’s different forms is most likely the most popular fairway driver in the world.",
-      "id": 10
+      "id": "10"
     }
   ]
 }
